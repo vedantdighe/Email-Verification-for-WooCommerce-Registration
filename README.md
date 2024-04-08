@@ -1,1 +1,0 @@
-# Email-Verification-for-WooCommerce-Registration
